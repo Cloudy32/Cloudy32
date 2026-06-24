@@ -1,28 +1,34 @@
-## Hey 👋
+**Hey** 👋
 
-My Telegram channel: https://t.me/dayyaichto
-My personal Telegram: https://t.me/Dayyaog
+I'm a 23-year-old Python Backend Developer focused on building reliable, scalable, and clean backend systems.
 
-My name is Roman. I'am 23 y.o backend developer on python. My developing core is: Python, FastAPI, SQL, SQLAlchemy, Alembic, Reddis, Celery 
+🧑‍💻 **About Me**
 
-Currently, I'm looking for a job as junior+/middle python backend developer
+My core stack includes:
 
-I'm always looking for new challenges and opportunities to grow my skills.
-If you find my work interesting, I'd be happy to receive feedback or connect with you.
+**Python · FastAPI · SQL · SQLAlchemy · Alembic · Redis · Celery**
 
-In the future I want to develop my own app and be a CEO.
+I enjoy working on backend architecture, APIs, databases, asynchronous tasks, and services that solve real business problems.
 
-Here are some of the things I'm passionate about:
+I'm always open to new challenges, feedback, and opportunities to improve my skills. My long-term goal is to build my own product and grow into the role of a CEO.
 
- ●Building robust and scalable backend systems
- ●Creating user-friendly and intuitive frontend interfaces
- ●Staying up-to-date with the latest technologies
- ●Collaborating with talented developers
+🚀 **What I'm Passionate About**
+●Building robust and scalable backend systems.
+●Designing clean and maintainable APIs.
+●Working with databases and backend infrastructure.
+●Learning modern technologies and development practices.
+●Collaborating with talented developers.
+●Turning ideas into real products.
+📌 **Currently**
+●Looking for a **Junior+ / Middle Python Backend Developer** position.
+●Improving my backend development skills.
+●Building projects and expanding my portfolio.
+●Learning more about product development and entrepreneurship.
 
-I'm always eager to learn new things and take on new challenges.
-If you have any questions or would like to discuss potential projects, please don't hesitate to contact me.
+📫 **Contact Me**
+Telegram Channel: @dayyaichto
+Personal Telegram: @Dayyaog
+e-mail: r.bondar29@gmail.com
 
-<!--
-**Cloudy32/Cloudy32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm always happy to connect, discuss potential projects, or receive feedback on my work.
 
