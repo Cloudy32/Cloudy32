@@ -12,13 +12,14 @@ I enjoy working on backend architecture, APIs, databases, asynchronous tasks, an
 
 I'm always open to new challenges, feedback, and opportunities to improve my skills. My long-term goal is to build my own product and grow into the role of a CEO.
 
-🚀 **What I'm Passionate About**
+🚀 **What I'm Passionate About**  
 ●Building robust and scalable backend systems.  
 ●Designing clean and maintainable APIs.  
 ●Working with databases and backend infrastructure.  
 ●Learning modern technologies and development practices.  
 ●Collaborating with talented developers.  
-●Turning ideas into real products.  
+●Turning ideas into real products.
+
 📌 **Currently**  
 ●Looking for a **Junior+ / Middle Python Backend Developer** position.  
 ●Improving my backend development skills.  
