@@ -29,7 +29,7 @@ I'm always open to new challenges, feedback, and opportunities to improve my ski
 📫 **Contact Me**  
 Telegram Channel: @dayyaichto   
 Personal Telegram: @Dayyaog  
-my presonal site: rbcoder.ru.  
+my presonal site: (rbcoder.ru).   
 e-mail: r.bondar29@gmail.com  
 
 I'm always happy to connect, discuss potential projects, or receive feedback on my work.
